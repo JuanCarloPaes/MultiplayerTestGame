@@ -503,6 +503,10 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5411077407372431286, guid: f2de5f7367c924a4e8a225f27e55e67b, type: 3}
+      propertyPath: m_text
+      value: '    Juan Carlo'
+      objectReference: {fileID: 0}
     - target: {fileID: 7177571342684283738, guid: f2de5f7367c924a4e8a225f27e55e67b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
